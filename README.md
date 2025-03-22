@@ -3,4 +3,4 @@
 
 <b>Minus :<b/>
 
-• Belum responsive \
+• Belum responsive
